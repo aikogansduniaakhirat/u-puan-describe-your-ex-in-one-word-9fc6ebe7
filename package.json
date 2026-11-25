@@ -1,0 +1,11 @@
+{
+  "name": "u-puan-describe-your-ex-in-one-word-9fc6ebe7",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One word describing an ex, 111 characters max, written to /output/entry.txt.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
